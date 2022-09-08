@@ -30,6 +30,7 @@ Install all the dependencies using composer
 
 ```shell script
 cd ./GildedRose-Refactoring-Kata/php
+composer update
 composer install
 ```
 
